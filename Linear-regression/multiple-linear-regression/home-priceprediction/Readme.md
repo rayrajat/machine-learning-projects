@@ -45,7 +45,11 @@ This project builds a **Multiple Linear Regression** model to predict residentia
 ## videos
 
 
-Uploading Screen Recording 2026-05-17 163104.mp4…
+
+
+https://github.com/user-attachments/assets/89d3a6e7-c19a-4c19-a8cb-dcfe8b8b81af
+
+
 
 
 
