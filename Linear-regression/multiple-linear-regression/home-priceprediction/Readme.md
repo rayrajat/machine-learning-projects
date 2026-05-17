@@ -35,6 +35,36 @@ This project builds a **Multiple Linear Regression** model to predict residentia
 | RMSE                | ₹X.XX Lakh     |
 
 > *Note: Performance can be further improved using XGBoost and better feature engineering.*
+>
+> ## demo
+>## pictures
+> <img width="640" height="319" alt="Screenshot 2026-05-17 162617" src="https://github.com/user-attachments/assets/73dfe663-f0e9-49b2-8482-7a473262b723" />
+
+<img width="637" height="299" alt="Screenshot 2026-05-17 162659" src="https://github.com/user-attachments/assets/1b9e405e-4dae-4ed8-80ee-c2d1a8bfe807" />
+
+## videos
+
+
+Uploading Screen Recording 2026-05-17 163104.mp4…
+
+
+
+https://github.com/user-attachments/assets/276f364a-d9d1-4d18-b3fd-e265eb9d43ff
+
+
+
+https://github.com/user-attachments/assets/ac484f15-166e-494c-9a94-15a6904c511c
+
+
+
+
+
+
+
+
+
+
+
 
 ---
 
