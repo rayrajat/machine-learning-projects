@@ -17,6 +17,21 @@ This project builds a **Multiple Linear Regression** model to estimate residenti
 **Goal:** Help buyers, sellers, and analysts estimate realistic house prices using key property features.
 
 ---
+## 🖥️ Demo
+
+### Screenshots
+<img width="640" height="319" alt="App Screenshot 1" src="https://github.com/user-attachments/assets/73dfe663-f0e9-49b2-8482-7a473262b723" />
+<img width="637" height="299" alt="App Screenshot 2" src="https://github.com/user-attachments/assets/1b9e405e-4dae-4ed8-80ee-c2d1a8bfe807" />
+
+### Video Walkthrough
+
+https://github.com/user-attachments/assets/89d3a6e7-c19a-4c19-a8cb-dcfe8b8b81af
+
+https://github.com/user-attachments/assets/276f364a-d9d1-4d18-b3fd-e265eb9d43ff
+
+https://github.com/user-attachments/assets/ac484f15-166e-494c-9a94-15a6904c511c
+
+---
 ## ✨ Features
 
 - 📊 **Exploratory Data Analysis (EDA)** — distributions, correlations, and outlier investigation
