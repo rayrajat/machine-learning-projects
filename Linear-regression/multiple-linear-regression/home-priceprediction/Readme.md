@@ -51,14 +51,22 @@ This project builds a **Multiple Linear Regression** model to predict residentia
 
 ## 📁 Project Structure
 house-price-app/
-├── app.py                      # Streamlit Web App
-├── Dockerfile                  # Docker configuration
-├── requirements.txt
-├── .dockerignore
-├── house_price_model.pkl       # Saved model
-├── feature_columns.pkl         # Saved feature columns
-├── notebook.ipynb              # Jupyter Notebook
-├── MagicBricks.csv             # Dataset
+├── app.py                    # Streamlit Web Application
+├── Dockerfile                # Docker configuration
+├── requirements.txt          # Python dependencies
+├── .dockerignore             # Docker build optimization
+├── .gitignore                # Git ignore (recommended to add)
+│
+├── MagicBricks.csv                   # ← Grouped data files
+│  
+│
+├── models/                   # ← Grouped model files
+│   ├── house_price_model.pkl
+│   └── feature_columns.pkl
+│
+├── notebooks/                # ← Grouped notebooks
+│   └── notebook.ipynb
+│
 └── README.md
 
 
